@@ -4,4 +4,4 @@ __pycache__
 static
 driver
 run_prod.sh
-version/*
+versions/*
